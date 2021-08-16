@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "01Promedio",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/01Promedio",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 20
+    },
+    {
+      "name": "02Peso",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/02Peso",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "03PendienteLinea",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/03PendienteLinea",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "04PEMDAS",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/04PEMDAS",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "05CuentaBancaria",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/05CuentaBancaria",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    }
+  ]
+}
